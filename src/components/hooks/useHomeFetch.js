@@ -1,7 +1,7 @@
-import { useState, useEffect, useRef } from "react";
+import { useState, useEffect } from "react";
 // API
 import API from "../../API";
-import { REQUEST_TOKEN_URL } from "../../config";
+// import { REQUEST_TOKEN_URL } from "../../config";
 // Helpers
 import { isPersistedState } from "../../helpers";
 
